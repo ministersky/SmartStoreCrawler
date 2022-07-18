@@ -1,6 +1,6 @@
 # SmartStoreCrawler
 
-Naver SmartStore Benchmarker and Reporter수
+Naver SmartStore Benchmarker and Reporter
 ------
 ## Version History
 
